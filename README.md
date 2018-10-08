@@ -3,7 +3,7 @@ A bitcoin like prototype system built from scratch with Node JS
 
 Run NPN init first
 
-The run the following commands to start 5 mining nodes
+The run the following commands to start 6 different nodes
 
 ```
 npm run node0
