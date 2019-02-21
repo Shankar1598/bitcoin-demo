@@ -26,7 +26,7 @@ GET  /blockchain - To view the entire blockchain
 
 GET  /mine - To mine a new block
 
-GET  /consensus - To run Proof of Work (woth difficulty 5)
+GET  /consensus - To run Proof of Work (with difficulty 5)
 
 POST /register-and-broadcast - To register the nodes in the decentralized network 
 Data: {"newNode":<NodeUrl>}
